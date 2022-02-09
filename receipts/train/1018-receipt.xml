@@ -1,0 +1,26 @@
+<annotation>
+	<folder>receipts_512x512_gray</folder>
+	<filename>1018-receipt.jpg</filename>
+	<path>C:\Local (Microsoft)\MIT\Splitit\receipts_512x512_gray\1018-receipt.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>item</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>258</ymin>
+			<xmax>510</xmax>
+			<ymax>299</ymax>
+		</bndbox>
+	</object>
+</annotation>
